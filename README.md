@@ -13,11 +13,12 @@ Make sure you have the following installed:
 ├── 📂 public                 # Next.js public folder
 ├── 📂 src                    # Next.js source code
 │   ├── 📂 app                # Next.js App Router directory
-│   ├── 📂 components         # Reusable components
-│   └── 📂 styles             # TailwindCSS styles
+│   ├── 📂 lib                # Utility functions
+│   └── 📂 components         # Shadcn components
 ├── 📂 src-tauri              # Tauri configuration & Rust backend
 │   ├── 📜 tauri.conf.json    # Tauri settings
 │   └── 📜 Cargo.toml         # Rust dependencies
+├── 📜 components.json        # Shadcn configs
 ├── 📜 package.json           # Dependencies & scripts
 └── 📜 README.md              # This file
   ⋮
