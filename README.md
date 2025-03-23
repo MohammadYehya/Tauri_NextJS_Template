@@ -1,5 +1,5 @@
 # Tauri_NextJS_Template
-A simple and reusable template for setting up a Tauri project with NextJS+Tailwind for the frontend. This repository provides a structured starting point to avoid repetitive setup tasks.
+A simple and reusable template for setting up a Tauri project with NextJS+Shadcn for the frontend. This repository provides a structured starting point to avoid repetitive setup tasks.
 
 ## Prerequisites
 Make sure you have the following installed:
@@ -9,7 +9,7 @@ Make sure you have the following installed:
 
 ## Directory Structure
 ```
-📦 tauri-next-tailwind-template
+📦 Tauri_Next_Template
 ├── 📂 public                 # Next.js public folder
 ├── 📂 src                    # Next.js source code
 │   ├── 📂 app                # Next.js App Router directory
